@@ -1,9 +1,13 @@
 How to View Text Messages Remotely: A Complete Guide
 =====================================================
 
-.. image:: _static/chatNow.png
-   :target: https://t.me/spyremotely
-   :alt: Chat Now
+.. raw:: html
+
+   <div align="center">
+     <a href="https://t.me/spyremotely" target="_blank">
+       <img src="_static/chatNow.png" alt="Chat Now" style="width: 200px;" />
+     </a>
+   </div>
 
 Text messaging remains one of the most common ways people communicate today — whether it’s for personal chats, work discussions, or staying connected with loved ones. But there are times when you might need to view text messages remotely. Parents may want to keep an eye on their children’s safety, employers may need to monitor company-issued devices, or individuals may simply need access to their own messages from another device. Whatever your reason, this blog explains the best ways to view text messages remotely — responsibly and legally. https://t.me/spyremotely
 
